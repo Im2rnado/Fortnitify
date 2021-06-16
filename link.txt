@@ -1,1 +1,1 @@
-fortnitify-1.0
+fortnitify-1.0.0
