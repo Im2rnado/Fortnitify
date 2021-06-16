@@ -1,1 +1,1 @@
-fortnitify-1.0.0
+fortnitify-v1
